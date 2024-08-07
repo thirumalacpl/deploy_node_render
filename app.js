@@ -28,7 +28,7 @@ app.use("/api/profile", profileRoutes);
 
 
 app.get('/test', (req, res) => {
-    res.send('Hello World!')
+    res.send('Hello World Thirumal!')
   })
 
 // app.use((req,res,next)=>{
